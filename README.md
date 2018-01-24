@@ -5,9 +5,9 @@ Tracking devices and assets
 Flow to insert tracking data:
 -------------------------------
 
-Create Device Types (GPS, MOBILE etc)
-Register Device
-Register Assets (Optional)
+Create Device Types (GPS, MOBILE etc) ->
+Register Device ->
+Register Assets (Optional) ->
 Send Tracking Data corresponding to Device and Asset(Optional), Supports metadata.
 
 
